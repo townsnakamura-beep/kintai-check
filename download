@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+uploads/*
+cache/*
+outputs/*
+*.pdf
+*.xls
+*.xlsx
